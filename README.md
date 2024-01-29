@@ -19,7 +19,8 @@ Backup system regularly as shown in video, to avoid any issues.
 
 This VM helps to make a Capacity Planning Software / Server live, within minutes.
 
-Features
+## Features
+
 It is a Resource Consumption Recording, Forecasting, Capacity Planning, Capacity Management Software.
 
 Add unlimited number of groups through groupsmanager login to seggregate data and then give them page access permission similar or lesser than the default operator id
