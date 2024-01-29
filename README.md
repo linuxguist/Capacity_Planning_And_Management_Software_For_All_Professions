@@ -8,11 +8,14 @@ In Just Two Simple steps of Defining Your Resource & Actively Tracking its Consu
 After starting this VM, from any PC on your Local Network, access the: 
 
 Application Website: https://trcfir.local
+
 ( Accept Any Warnings due to Usage of Self-Signed https certificates )
+
 
 Logins: operator & groupsmanager 
 
 Password: change_this 
+
 
 If you are new to Virtual Machines, then please watch the Video below ( taken from my other project. just replace td with trcfir wherever mentioned )
 
