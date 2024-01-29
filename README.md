@@ -60,5 +60,5 @@ https://sourceforge.net/projects/trcfir/files/latest/download
 
 Some screenshot below:
 
-[Capacity Planning Screenshot Image](https://i.imgur.com/Kod2Bwq.jpg)
+![Screenshot 1](https://i.imgur.com/Kod2Bwq.jpg "Screenshot 1")
 
