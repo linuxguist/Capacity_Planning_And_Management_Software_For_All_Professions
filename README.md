@@ -48,3 +48,17 @@ The acronym trcfir stands for Track Resource Consumption and Forecast Its Requir
 
 Please save this webpage completely, for future references.
 
+if you are new to Virtual Machines OR if you need more instructions on this project, then please watch the youtube video below, which is taken from my other project: ( Right Click to Open in New Tab )
+
+https://youtu.be/Crxr8X9bGn8
+
+Hope you find this software very useful in your day to day work. If you do, please give a Star Rating to it, so that others get to know about it.
+
+## Direct download link given below ( Right Click to Open in New Tab ) : 
+
+https://sourceforge.net/projects/trcfir/files/latest/download
+
+Some screenshot below:
+
+[Capacity Planning Screenshot Image](https://i.imgur.com/Kod2Bwq.jpg)
+
